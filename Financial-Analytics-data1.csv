@@ -1,0 +1,460 @@
+company_name,market_cap_crore,sales_qtr_crore,market_cap_category,sales_qtr_category,market_cap_to_sales,market_cap_share
+Reliance Inds.,"583,436.72","99,810.00",Large Cap,High Sales,5.85,4.40%
+TCS,"563,709.84","30,904.00",Large Cap,High Sales,18.24,4.25%
+HDFC Bank,"482,953.59","20,581.27",Large Cap,High Sales,23.47,3.64%
+ITC,"320,985.27","9,772.02",Large Cap,High Sales,32.85,2.42%
+H D F C,"289,497.37","16,840.51",Large Cap,High Sales,17.19,2.18%
+Hind. Unilever,"288,265.26","8,590.00",Large Cap,High Sales,33.56,2.18%
+Maruti Suzuki,"263,493.81","19,283.20",Large Cap,High Sales,13.66,1.99%
+Infosys,"248,320.35","17,794.00",Large Cap,High Sales,13.96,1.87%
+O N G C,"239,981.50","22,995.88",Large Cap,High Sales,10.44,1.81%
+St Bk of India,"232,763.33","57,014.08",Large Cap,High Sales,4.08,1.76%
+ICICI Bank,"203,802.35","13,665.35",Large Cap,High Sales,14.91,1.54%
+Kotak Mah. Bank,"199,253.77","6,390.71",Large Cap,High Sales,31.18,1.50%
+Coal India,"192,677.98","21,643.28",Large Cap,High Sales,8.90,1.45%
+Larsen & Toubro,"180,860.74","28,747.45",Large Cap,High Sales,6.29,1.36%
+I O C L,"178,017.48","110,666.93",Large Cap,High Sales,1.61,1.34%
+Bharti Airtel,"167,131.29","20,318.60",Large Cap,High Sales,8.23,1.26%
+Axis Bank,"136,380.76","11,721.55",Large Cap,High Sales,11.64,1.03%
+NTPC,"135,390.53","20,774.37",Large Cap,High Sales,6.52,1.02%
+Sun Pharma.Inds.,"134,241.36","6,653.23",Large Cap,High Sales,20.18,1.01%
+Hind.Zinc,"133,266.56","5,922.00",Large Cap,High Sales,22.50,1.01%
+Wipro,"131,840.57","13,669.00",Large Cap,High Sales,9.65,0.99%
+HCL Technologies,"126,335.27","12,809.00",Large Cap,High Sales,9.86,0.95%
+Vedanta,"122,184.17","24,361.00",Large Cap,High Sales,5.02,0.92%
+Tata Motors,"117,071.87","74,156.07",Large Cap,High Sales,1.58,0.88%
+UltraTech Cem.,"113,692.87","8,019.24",Large Cap,High Sales,14.18,0.86%
+Asian Paints,"108,044.04","4,260.52",Large Cap,High Sales,25.36,0.82%
+Power Grid Corpn,"102,016.01","7,506.95",Large Cap,High Sales,13.59,0.77%
+B P C L,"98,278.00","60,616.36",Large Cap,High Sales,1.62,0.74%
+IndusInd Bank,"97,379.96","4,286.78",Large Cap,High Sales,22.72,0.73%
+Bajaj Fin.,"94,476.77","3,540.63",Large Cap,High Sales,26.68,0.71%
+Bajaj Auto,"88,252.60","6,369.34",Large Cap,High Sales,13.86,0.67%
+M & M,"88,142.35","11,577.78",Large Cap,High Sales,7.61,0.67%
+HDFC Stand. Life,"87,358.23","9,734.90",Large Cap,High Sales,8.97,0.66%
+Adani Ports,"81,781.89","2,688.85",Large Cap,Medium Sales,30.42,0.62%
+Bajaj Finserv,"79,795.11","7,665.40",Large Cap,High Sales,10.41,0.60%
+GAIL (India),"78,670.97","14,414.34",Large Cap,High Sales,5.46,0.59%
+Avenue Super.,"74,066.35","4,094.82",Large Cap,High Sales,18.09,0.56%
+Titan Company,"73,886.00","4,274.84",Large Cap,High Sales,17.28,0.56%
+JSW Steel,"73,870.26","17,861.00",Large Cap,High Sales,4.14,0.56%
+Grasim Inds,"73,532.62","15,291.42",Large Cap,High Sales,4.81,0.55%
+Tata Steel,"73,376.14","32,464.14",Large Cap,High Sales,2.26,0.55%
+Eicher Motors,"73,311.41","2,269.01",Large Cap,Medium Sales,32.31,0.55%
+Nestle India,"73,015.49","2,601.46",Large Cap,Medium Sales,28.07,0.55%
+Godrej Consumer,"71,859.82","2,630.30",Large Cap,Medium Sales,27.32,0.54%
+Yes Bank,"71,028.13","5,070.30",Large Cap,High Sales,14.01,0.54%
+Hero Motocorp,"69,448.66","7,305.49",Large Cap,High Sales,9.51,0.52%
+Motherson Sumi,"68,590.33","14,397.85",Large Cap,High Sales,4.76,0.52%
+SBI Life Insuran,"67,465.00","9,569.97",Large Cap,High Sales,7.05,0.51%
+General Insuranc,"66,316.32","8,557.68",Large Cap,High Sales,7.75,0.50%
+Dabur India,"60,015.00","1,966.44",Large Cap,Medium Sales,30.52,0.45%
+Bosch,"59,204.28","3,071.92",Large Cap,High Sales,19.27,0.45%
+Shree Cement,"58,987.08","2,296.23",Large Cap,Medium Sales,25.69,0.45%
+New India Assura,"58,108.48","5,074.02",Large Cap,High Sales,11.45,0.44%
+H P C L,"58,034.78","57,474.25",Large Cap,High Sales,1.01,0.44%
+ICICI Pru Life,"57,748.98","13,555.32",Large Cap,High Sales,4.26,0.44%
+Britannia Inds.,"56,837.20","2,567.48",Large Cap,Medium Sales,22.14,0.43%
+Tech Mahindra,"56,244.26","7,775.96",Large Cap,High Sales,7.23,0.42%
+Hindalco Inds.,"55,854.68","11,022.81",Large Cap,High Sales,5.07,0.42%
+Zee Entertainmen,"54,817.89","1,838.07",Large Cap,Medium Sales,29.82,0.41%
+Cairn India,"53,528.57","2,149.36",Large Cap,Medium Sales,24.90,0.40%
+Indiabulls Hous.,"52,781.67","3,115.89",Large Cap,High Sales,16.94,0.40%
+Ambuja Cem.,"52,361.46","6,170.71",Large Cap,High Sales,8.49,0.40%
+Interglobe Aviat,"48,621.37","6,177.88",Large Cap,High Sales,7.87,0.37%
+Cipla,"48,577.43","3,913.82",Large Cap,High Sales,12.41,0.37%
+Piramal Enterp.,"47,483.97","2,858.36",Large Cap,High Sales,16.61,0.36%
+United Spirits,"46,725.05","2,263.30",Large Cap,Medium Sales,20.64,0.35%
+Pidilite Inds.,"45,855.50","1,542.90",Large Cap,Medium Sales,29.72,0.35%
+Siemens,"44,239.04","2,429.50",Large Cap,Medium Sales,18.21,0.33%
+Cadila Health.,"41,876.19","3,259.60",Large Cap,High Sales,12.85,0.32%
+NMDC,"41,415.33","2,469.03",Large Cap,Medium Sales,16.77,0.31%
+DLF,"40,159.35","1,693.72",Large Cap,Medium Sales,23.71,0.30%
+Marico,"39,813.84","1,337.59",Large Cap,Medium Sales,29.77,0.30%
+Ashok Leyland,"39,047.57","7,113.16",Large Cap,High Sales,5.49,0.29%
+Bharat Electron,"37,776.23","2,512.82",Large Cap,Medium Sales,15.03,0.29%
+ICICI Lombard,"37,219.22","2,110.99",Large Cap,Medium Sales,17.63,0.28%
+Lupin,"36,878.85","3,975.62",Large Cap,High Sales,9.28,0.28%
+Petronet LNG,"36,615.00","7,757.06",Large Cap,High Sales,4.72,0.28%
+Aditya Birla Cap,"36,215.92","3,325.02",Large Cap,High Sales,10.89,0.27%
+Dr Reddy's Labs,"35,893.55","3,834.10",Large Cap,High Sales,9.36,0.27%
+Sun TV Network,"35,824.26",683.28,Large Cap,Low Sales,52.43,0.27%
+S A I L,"35,729.04","15,323.65",Large Cap,High Sales,2.33,0.27%
+UPL,"35,349.58","4,194.00",Large Cap,High Sales,8.43,0.27%
+Oracle Fin.Serv.,"34,620.19","1,059.12",Large Cap,Low Sales,32.69,0.26%
+Bharat Forge,"34,397.69","1,390.55",Large Cap,Medium Sales,24.74,0.26%
+Biocon,"34,347.00","1,057.90",Large Cap,Low Sales,32.47,0.26%
+B H E L,"34,162.38","6,626.35",Large Cap,High Sales,5.16,0.26%
+Aurobindo Pharma,"33,676.52","4,336.11",Large Cap,High Sales,7.77,0.25%
+Bank of Baroda,"33,364.23","11,303.24",Large Cap,High Sales,2.95,0.25%
+Idea Cellular,"33,047.33","6,509.60",Large Cap,High Sales,5.08,0.25%
+A B B,"31,983.33","2,779.40",Large Cap,High Sales,11.51,0.24%
+Havells India,"31,798.18","1,965.77",Large Cap,Medium Sales,16.18,0.24%
+Container Corpn.,"31,450.56","1,639.55",Large Cap,Medium Sales,19.18,0.24%
+TVS Motor Co.,"30,919.51","3,684.95",Large Cap,High Sales,8.39,0.23%
+ACC,"30,803.68","3,494.24",Large Cap,High Sales,8.82,0.23%
+Bajaj Holdings,"30,305.94",317.85,Large Cap,Very Low Sales,95.35,0.23%
+P & G Hygiene,"30,202.12",704.16,Large Cap,Low Sales,42.89,0.23%
+MRF,"30,030.01","3,798.82",Large Cap,High Sales,7.91,0.23%
+Shriram Trans.,"29,327.64","3,087.67",Large Cap,High Sales,9.50,0.22%
+L&T Fin.Holdings,"28,932.43","2,630.17",Large Cap,Medium Sales,11.00,0.22%
+Punjab Natl.Bank,"28,270.22","12,175.48",Large Cap,High Sales,2.32,0.21%
+NHPC Ltd,"28,059.24","1,497.93",Large Cap,Medium Sales,18.73,0.21%
+Power Fin.Corpn.,"27,905.66","6,194.77",Large Cap,High Sales,4.50,0.21%
+United Breweries,"27,797.69","1,197.10",Large Cap,Medium Sales,23.22,0.21%
+Oil India,"27,404.15","2,852.55",Large Cap,High Sales,9.61,0.21%
+Rural Elec.Corp.,"27,382.24","5,498.45",Large Cap,High Sales,4.98,0.21%
+GlaxoSmith C H L,"27,340.89","1,034.67",Large Cap,Low Sales,26.42,0.21%
+M & M Fin. Serv.,"26,928.37","2,182.45",Large Cap,Medium Sales,12.34,0.20%
+Divi's Lab.,"26,915.86","1,037.88",Large Cap,Low Sales,25.93,0.20%
+Kansai Nerolac,"26,409.76","1,145.01",Large Cap,Medium Sales,23.07,0.20%
+Alkem Lab,"25,957.56","1,422.52",Large Cap,Medium Sales,18.25,0.20%
+LIC Housing Fin.,"25,880.98","3,738.10",Large Cap,High Sales,6.92,0.20%
+Future Retail,"25,859.25","4,693.39",Large Cap,High Sales,5.51,0.20%
+Page Industries,"25,383.03",621.03,Large Cap,Low Sales,40.87,0.19%
+Dalmia Bhar.,"25,288.97","2,090.54",Large Cap,Medium Sales,12.10,0.19%
+IIFL Holdings,"24,788.54","1,612.14",Large Cap,Medium Sales,15.38,0.19%
+L & T Infotech,"24,626.10","1,883.80",Large Cap,Medium Sales,13.07,0.19%
+Aditya Bir. Nuv.,"24,592.21","4,287.12",Large Cap,High Sales,5.74,0.19%
+Emami,"23,720.37",756.64,Large Cap,Low Sales,31.35,0.18%
+Cummins India,"23,562.00","1,354.67",Large Cap,Medium Sales,17.39,0.18%
+Berger Paints,"23,537.80","1,338.63",Mid Cap,Medium Sales,17.58,0.18%
+Rajesh Exports,"23,495.54","41,304.84",Mid Cap,High Sales,0.57,0.18%
+Tata Power Co.,"23,369.24","6,949.91",Mid Cap,High Sales,3.36,0.18%
+3M India,"23,101.19",645.77,Mid Cap,Low Sales,35.77,0.17%
+Jindal Steel,"23,094.39","6,992.56",Mid Cap,High Sales,3.30,0.17%
+Edelweiss.Fin.,"22,915.42","2,069.45",Mid Cap,Medium Sales,11.07,0.17%
+Gillette India,"21,976.74",407.52,Mid Cap,Very Low Sales,53.93,0.17%
+Adani Enterp.,"21,776.04","9,938.37",Mid Cap,High Sales,2.19,0.16%
+Adani Transmissi,"21,677.26","1,782.29",Mid Cap,Medium Sales,12.16,0.16%
+Balkrishna Inds,"21,372.18","1,106.31",Mid Cap,Low Sales,19.32,0.16%
+Cholaman.Inv.&Fn,"20,832.40","1,404.33",Mid Cap,Medium Sales,14.83,0.16%
+Indraprastha Gas,"20,779.52","1,183.90",Mid Cap,Medium Sales,17.55,0.16%
+M R P L,"20,750.78","14,100.98",Mid Cap,High Sales,1.47,0.16%
+Glaxosmi. Pharma,"20,489.35",703.91,Mid Cap,Low Sales,29.11,0.15%
+PNB Housing,"20,037.85","1,438.49",Mid Cap,Medium Sales,13.93,0.15%
+RBL Bank,"19,748.79","1,150.79",Mid Cap,Medium Sales,17.16,0.15%
+Castrol India,"18,803.22",970.30,Mid Cap,Low Sales,19.38,0.14%
+Canara Bank,"18,590.66","10,774.64",Mid Cap,High Sales,1.73,0.14%
+GRUH Finance,"18,535.09",428.47,Mid Cap,Very Low Sales,43.26,0.14%
+KIOCL,"18,534.15",442.81,Mid Cap,Very Low Sales,41.86,0.14%
+Voltas,"18,453.44","1,374.67",Mid Cap,Medium Sales,13.42,0.14%
+Godrej Inds.,"18,298.09","2,458.48",Mid Cap,Medium Sales,7.44,0.14%
+Whirlpool India,"18,254.06",958.01,Mid Cap,Low Sales,19.05,0.14%
+Sundaram Finance,"18,159.85",677.23,Mid Cap,Low Sales,26.81,0.14%
+Federal Bank,"18,086.81","2,501.20",Mid Cap,Medium Sales,7.23,0.14%
+Tata Comm,"17,963.55","4,114.63",Mid Cap,High Sales,4.37,0.14%
+Tata Chemicals,"17,941.47","2,573.91",Mid Cap,Medium Sales,6.97,0.14%
+Exide Inds.,"17,930.75","2,276.54",Mid Cap,Medium Sales,7.88,0.14%
+IDFC Bank,"17,762.77","2,283.72",Mid Cap,Medium Sales,7.78,0.13%
+NBCC,"17,712.00","1,321.50",Mid Cap,Medium Sales,13.40,0.13%
+IDBI Bank,"17,559.35","5,797.20",Mid Cap,High Sales,3.03,0.13%
+The Ramco Cement,"17,246.58","1,056.36",Mid Cap,Low Sales,16.33,0.13%
+Dewan Hsg. Fin.,"17,097.54","2,631.60",Mid Cap,Medium Sales,6.50,0.13%
+MphasiS,"16,728.78","1,660.69",Mid Cap,Medium Sales,10.07,0.13%
+Apollo Hospitals,"16,683.97","1,896.14",Mid Cap,Medium Sales,8.80,0.13%
+Reliance Nip.Lif,"16,655.58",394.00,Mid Cap,Very Low Sales,42.27,0.13%
+Tata Global,"16,589.24","1,730.39",Mid Cap,Medium Sales,9.59,0.13%
+Godrej Propert.,"16,545.51",627.03,Mid Cap,Low Sales,26.39,0.12%
+AU Small Finance,"16,453.67",464.17,Mid Cap,Very Low Sales,35.45,0.12%
+Indian Hotels,"16,150.13","1,197.26",Mid Cap,Medium Sales,13.49,0.12%
+Motil.Oswal.Fin.,"16,108.15",728.63,Mid Cap,Low Sales,22.11,0.12%
+H U D C O,"16,065.25","1,064.49",Mid Cap,Low Sales,15.09,0.12%
+Oberoi Realty,"16,044.51",356.20,Mid Cap,Very Low Sales,45.04,0.12%
+Indian Bank,"15,739.16","4,354.22",Mid Cap,High Sales,3.61,0.12%
+SJVN,"15,512.35",436.58,Mid Cap,Very Low Sales,35.53,0.12%
+Bank of India,"15,339.87","9,334.84",Mid Cap,High Sales,1.64,0.12%
+Supreme Inds.,"15,248.94","1,278.30",Mid Cap,Medium Sales,11.93,0.12%
+Muthoot Finance,"15,226.72","1,553.71",Mid Cap,Medium Sales,9.80,0.11%
+NLC India,"15,201.61","1,706.48",Mid Cap,Medium Sales,8.91,0.11%
+Glenmark Pharma.,"14,785.53","2,203.67",Mid Cap,Medium Sales,6.71,0.11%
+Jubilant Life,"14,775.08","2,067.76",Mid Cap,Medium Sales,7.15,0.11%
+Crompton Gr. Con,"14,638.57",938.19,Mid Cap,Low Sales,15.60,0.11%
+Honeywell Auto,"14,526.24",721.48,Mid Cap,Low Sales,20.13,0.11%
+Natco Pharma,"14,456.90",562.20,Mid Cap,Low Sales,25.71,0.11%
+PC Jeweller,"14,334.81","2,644.89",Mid Cap,Medium Sales,5.42,0.11%
+Quess Corp,"14,330.19","1,583.95",Mid Cap,Medium Sales,9.05,0.11%
+CRISIL,"14,164.81",441.13,Mid Cap,Very Low Sales,32.11,0.11%
+WABCO India,"13,843.64",649.91,Mid Cap,Low Sales,21.30,0.10%
+Amara Raja Batt.,"13,774.32","1,553.46",Mid Cap,Medium Sales,8.87,0.10%
+Sterlite Tech.,"13,743.95",835.18,Mid Cap,Low Sales,16.46,0.10%
+AIA Engg.,"13,593.35",572.16,Mid Cap,Low Sales,23.76,0.10%
+KRBL,"13,492.55",783.51,Mid Cap,Low Sales,17.22,0.10%
+Indiabulls Vent.,"13,396.15",238.43,Mid Cap,Very Low Sales,56.18,0.10%
+Century Textiles,"13,369.97","2,069.39",Mid Cap,Medium Sales,6.46,0.10%
+Jubilant Food.,"13,178.43",795.17,Mid Cap,Low Sales,16.57,0.10%
+Bayer Crop Sci.,"13,166.76",479.70,Mid Cap,Very Low Sales,27.45,0.10%
+Graphite India,"13,129.90",933.06,Mid Cap,Low Sales,14.07,0.10%
+JSW Energy,"13,104.00","1,993.20",Mid Cap,Medium Sales,6.57,0.10%
+Central Bank,"13,046.18","6,026.55",Mid Cap,High Sales,2.16,0.10%
+CESC,"12,996.56","1,706.00",Mid Cap,Medium Sales,7.62,0.10%
+Shri.City Union.,"12,995.31","1,338.09",Mid Cap,Medium Sales,9.71,0.10%
+L&T Technology,"12,942.25",969.10,Mid Cap,Low Sales,13.35,0.10%
+Rain Industries,"12,655.17","3,050.81",Mid Cap,High Sales,4.15,0.10%
+Torrent Power,"12,599.37","2,754.64",Mid Cap,High Sales,4.57,0.10%
+Dilip Buildcon,"12,526.06","1,942.12",Mid Cap,Medium Sales,6.45,0.09%
+TI Financial,"12,507.91",886.68,Mid Cap,Low Sales,14.11,0.09%
+JM Financial,"12,382.64",837.73,Mid Cap,Low Sales,14.78,0.09%
+Adani Power,"12,091.50","4,844.46",Mid Cap,High Sales,2.50,0.09%
+Reliance Power,"12,033.99","2,494.65",Mid Cap,Medium Sales,4.82,0.09%
+Reliance Capital,"11,966.83","4,749.00",Mid Cap,High Sales,2.52,0.09%
+Syngene Intl.,"11,950.00",387.70,Mid Cap,Very Low Sales,30.82,0.09%
+Abbott India,"11,924.12",881.49,Mid Cap,Low Sales,13.53,0.09%
+Hatsun AgroProd.,"11,896.52","1,012.94",Mid Cap,Low Sales,11.74,0.09%
+Symphony,"11,882.55",217.63,Mid Cap,Very Low Sales,54.60,0.09%
+Gujarat Gas,"11,759.77","1,571.33",Mid Cap,Medium Sales,7.48,0.09%
+Reliance Infra.,"11,737.24","5,861.04",Mid Cap,High Sales,2.00,0.09%
+Aditya Bir. Fas.,"11,718.17","1,855.00",Mid Cap,Medium Sales,6.32,0.09%
+Ajanta Pharma,"11,651.80",587.05,Mid Cap,Low Sales,19.85,0.09%
+P I Inds.,"11,564.22",537.74,Mid Cap,Low Sales,21.51,0.09%
+City Union Bank,"11,554.40",865.36,Mid Cap,Low Sales,13.35,0.09%
+Varun Beverages,"11,498.30",329.92,Mid Cap,Very Low Sales,34.85,0.09%
+Mindtree,"11,438.78","1,377.70",Mid Cap,Medium Sales,8.30,0.09%
+Prestige Estates,"11,353.13","1,272.30",Mid Cap,Medium Sales,8.92,0.09%
+Future Consumer,"11,203.15",784.05,Mid Cap,Low Sales,14.29,0.08%
+Sundram Fasten.,"11,202.53",848.13,Mid Cap,Low Sales,13.21,0.08%
+Sanofi India,"11,182.45",667.50,Mid Cap,Low Sales,16.75,0.08%
+Guj.St.Petronet,"11,064.74",350.18,Mid Cap,Very Low Sales,31.60,0.08%
+Godrej Agrovet,"10,918.75",865.77,Mid Cap,Low Sales,12.61,0.08%
+Finolex Cables,"10,900.75",656.78,Mid Cap,Low Sales,16.60,0.08%
+SRF,"10,842.62","1,397.06",Mid Cap,Medium Sales,7.76,0.08%
+GE T&D India,"10,778.42","1,438.55",Mid Cap,Medium Sales,7.49,0.08%
+Alembic Pharma,"10,764.29",840.02,Mid Cap,Low Sales,12.81,0.08%
+SPARC,"10,755.13",19.42,Mid Cap,Very Low Sales,553.82,0.08%
+GMR Infra.,"10,653.44","2,072.29",Mid Cap,Medium Sales,5.14,0.08%
+HEG,"10,630.76",842.71,Mid Cap,Low Sales,12.61,0.08%
+Trent,"10,589.27",521.32,Mid Cap,Very Low Sales,20.31,0.08%
+Engineers India,"10,565.56",473.42,Mid Cap,Very Low Sales,22.32,0.08%
+Avanti Feeds,"10,558.13",706.43,Mid Cap,Low Sales,14.95,0.08%
+Pfizer,"10,508.48",456.54,Mid Cap,Very Low Sales,23.02,0.08%
+Escorts,"10,450.56","1,205.03",Mid Cap,Medium Sales,8.67,0.08%
+Tata Motors-DVR,"10,442.09","7,769.67",Mid Cap,High Sales,1.34,0.08%
+Blue Dart Exp.,"10,422.45",704.59,Mid Cap,Low Sales,14.79,0.08%
+Indbull.RealEst.,"10,338.40","2,100.13",Mid Cap,Medium Sales,4.92,0.08%
+ERIS Lifescience,"10,289.81",182.21,Mid Cap,Very Low Sales,56.47,0.08%
+Arvind Ltd,"10,247.70","2,705.75",Mid Cap,Medium Sales,3.79,0.08%
+Hexaware Tech.,"9,885.05","1,004.83",Mid Cap,Low Sales,9.84,0.07%
+SKF India,"9,569.14",700.49,Small Cap,Low Sales,13.66,0.07%
+Delta Corp,"9,531.57",162.17,Small Cap,Very Low Sales,58.78,0.07%
+Union Bank (I),"9,528.82","8,260.47",Small Cap,High Sales,1.15,0.07%
+TV18 Broadcast,"9,463.27",271.13,Small Cap,Very Low Sales,34.90,0.07%
+Minda Inds.,"9,457.04","1,056.16",Small Cap,Low Sales,8.95,0.07%
+Solar Inds.,"9,317.76",465.68,Small Cap,Very Low Sales,20.01,0.07%
+Kajaria Ceramics,"9,306.54",661.16,Small Cap,Low Sales,14.08,0.07%
+Astral Poly,"9,162.14",528.54,Small Cap,Very Low Sales,17.33,0.07%
+Bata India,"9,145.38",674.00,Small Cap,Low Sales,13.57,0.07%
+Phoenix Mills,"9,097.33",416.61,Small Cap,Very Low Sales,21.84,0.07%
+BASF India,"8,778.35","1,278.74",Small Cap,Medium Sales,6.86,0.07%
+DCM Shriram,"8,681.95","1,783.73",Small Cap,Medium Sales,4.87,0.07%
+Infibeam Incorp.,"8,646.54",213.48,Small Cap,Very Low Sales,40.50,0.07%
+Aegis Logistics,"8,613.86","1,442.08",Small Cap,Medium Sales,5.97,0.07%
+Jet Airways,"8,539.88","6,086.20",Small Cap,High Sales,1.40,0.06%
+SpiceJet,"8,458.24","2,081.95",Small Cap,Medium Sales,4.06,0.06%
+Thomas Cook (I),"8,440.65","3,005.45",Small Cap,High Sales,2.81,0.06%
+Guj Fluorochem,"8,439.77",968.97,Small Cap,Low Sales,8.71,0.06%
+Wockhardt,"8,428.58","1,005.30",Small Cap,Low Sales,8.38,0.06%
+Akzo Nobel,"8,389.47",711.99,Small Cap,Low Sales,11.78,0.06%
+I D F C,"8,380.86","2,789.58",Small Cap,High Sales,3.00,0.06%
+Security & Intel,"8,247.08","1,537.72",Small Cap,Medium Sales,5.36,0.06%
+Asahi India Glas,"8,183.96",640.38,Small Cap,Low Sales,12.78,0.06%
+TTK Prestige,"8,153.33",457.97,Small Cap,Very Low Sales,17.80,0.06%
+ITI,"8,124.60",250.97,Small Cap,Very Low Sales,32.37,0.06%
+Karur Vysya Bank,"8,065.70","1,422.32",Small Cap,Medium Sales,5.67,0.06%
+Vardhman Textile,"8,023.74","1,647.98",Small Cap,Medium Sales,4.87,0.06%
+Fortis Health.,"7,966.43","1,156.61",Small Cap,Medium Sales,6.89,0.06%
+Ipca Labs.,"7,943.03",859.21,Small Cap,Low Sales,9.24,0.06%
+Sheela Foam,"7,815.74",532.21,Small Cap,Very Low Sales,14.69,0.06%
+IRB Infra.Devl.,"7,812.73","1,296.19",Small Cap,Medium Sales,6.03,0.06%
+Atul,"7,789.01",803.68,Small Cap,Low Sales,9.69,0.06%
+Finolex Inds.,"7,784.17",722.72,Small Cap,Low Sales,10.77,0.06%
+Dish TV,"7,765.91",740.77,Small Cap,Low Sales,10.48,0.06%
+Rel. Comm.,"7,702.01","1,144.00",Small Cap,Medium Sales,6.73,0.06%
+Dr Lal Pathlabs,"7,550.78",262.70,Small Cap,Very Low Sales,28.74,0.06%
+OCL India,"7,453.05",859.24,Small Cap,Low Sales,8.67,0.06%
+NCC,"7,439.01","2,780.26",Small Cap,High Sales,2.68,0.06%
+Relaxo Footwear,"7,251.91",457.50,Small Cap,Very Low Sales,15.85,0.05%
+J K Cements,"7,230.76","1,126.11",Small Cap,Low Sales,6.42,0.05%
+G N F C,"7,208.38","1,590.89",Small Cap,Medium Sales,4.53,0.05%
+Cochin Shipyard,"7,154.99",615.04,Small Cap,Low Sales,11.63,0.05%
+Birla Corpn.,"7,137.67","1,389.32",Small Cap,Medium Sales,5.14,0.05%
+Future Lifestyle,"7,009.13","1,188.97",Small Cap,Medium Sales,5.90,0.05%
+Century Ply.,"6,966.23",509.93,Small Cap,Very Low Sales,13.66,0.05%
+Blue Star,"6,952.99",981.30,Small Cap,Low Sales,7.09,0.05%
+Kalpataru Power,"6,950.23","1,417.37",Small Cap,Medium Sales,4.90,0.05%
+Suzlon Energy,"6,942.31","1,193.06",Small Cap,Medium Sales,5.82,0.05%
+Cyient,"6,921.97",983.30,Small Cap,Low Sales,7.04,0.05%
+Hind.Copper,"6,902.14",440.14,Small Cap,Very Low Sales,15.68,0.05%
+Guj Pipavav Port,"6,864.85",162.68,Small Cap,Very Low Sales,42.20,0.05%
+Carborundum Uni.,"6,838.18",611.59,Small Cap,Low Sales,11.18,0.05%
+Can Fin Homes,"6,811.50",392.10,Small Cap,Very Low Sales,17.37,0.05%
+Sadbhav Engg.,"6,795.06","2,153.34",Small Cap,Medium Sales,3.16,0.05%
+Advanta,"6,742.41",361.68,Small Cap,Very Low Sales,18.64,0.05%
+Capital First,"6,710.63",987.64,Small Cap,Low Sales,6.79,0.05%
+Lak. Mach. Works,"6,654.81",542.42,Small Cap,Low Sales,12.27,0.05%
+Himadri Specialt,"6,646.41",500.08,Small Cap,Very Low Sales,13.29,0.05%
+Coffee Day Enter,"6,601.62",965.30,Small Cap,Low Sales,6.84,0.05%
+PVR,"6,591.31",557.25,Small Cap,Low Sales,11.83,0.05%
+Chambal Fert.,"6,542.79","2,330.10",Small Cap,Medium Sales,2.81,0.05%
+Vijaya Bank,"6,531.58","3,135.23",Small Cap,High Sales,2.08,0.05%
+Welspun India,"6,520.67","1,397.95",Small Cap,Medium Sales,4.66,0.05%
+CEAT,"6,476.26","1,574.15",Small Cap,Medium Sales,4.11,0.05%
+Strides Shasun,"6,469.51",749.04,Small Cap,Low Sales,8.64,0.05%
+Narayana Hrudaya,"6,379.12",553.84,Small Cap,Low Sales,11.52,0.05%
+Jyothy Lab.,"6,324.62",431.21,Small Cap,Very Low Sales,14.67,0.05%
+Johnson Con. Hit,"6,209.11",377.40,Small Cap,Very Low Sales,16.45,0.05%
+Tata Elxsi,"6,153.54",345.54,Small Cap,Very Low Sales,17.81,0.05%
+Syndicate Bank,"6,086.37","5,375.57",Small Cap,High Sales,1.13,0.05%
+D B Corp,"6,059.97",598.58,Small Cap,Low Sales,10.12,0.05%
+Jain Irrigation,"6,019.89","1,889.63",Small Cap,Medium Sales,3.19,0.05%
+Persistent Sys,"5,996.40",791.89,Small Cap,Low Sales,7.57,0.05%
+Redington India,"5,896.54","11,728.40",Small Cap,High Sales,0.50,0.04%
+Sunteck Realty,"5,865.04",201.50,Small Cap,Very Low Sales,29.11,0.04%
+Raymond,"5,863.10","1,484.24",Small Cap,Medium Sales,3.95,0.04%
+MOIL,"5,840.29",299.80,Small Cap,Very Low Sales,19.48,0.04%
+Bombay Dyeing,"5,823.25",619.93,Small Cap,Low Sales,9.39,0.04%
+GE Shipping Co,"5,802.66",584.42,Small Cap,Low Sales,9.93,0.04%
+Grindwell Norton,"5,706.51",365.42,Small Cap,Very Low Sales,15.62,0.04%
+EID Parry,"5,652.33","3,557.94",Small Cap,High Sales,1.59,0.04%
+I O B,"5,591.02","4,254.68",Small Cap,High Sales,1.31,0.04%
+Galaxy Surfact.,"5,567.11",826.95,Small Cap,Low Sales,6.73,0.04%
+Laurus Labs,"5,502.94",473.77,Small Cap,Very Low Sales,11.62,0.04%
+Guj Alkalies,"5,498.45",617.61,Small Cap,Low Sales,8.90,0.04%
+Timken India,"5,495.76",278.58,Small Cap,Very Low Sales,19.73,0.04%
+C P C L,"5,427.82","8,587.17",Small Cap,High Sales,0.63,0.04%
+Dishman Carbogen,"5,416.39",459.82,Small Cap,Very Low Sales,11.78,0.04%
+St Bk of Bikaner,"5,402.95","2,262.28",Small Cap,Medium Sales,2.39,0.04%
+IFB Inds.,"5,293.53",531.74,Small Cap,Very Low Sales,9.96,0.04%
+eClerx Services,"5,259.14",339.89,Small Cap,Very Low Sales,15.47,0.04%
+Sobha,"5,224.11",691.90,Small Cap,Low Sales,7.55,0.04%
+Kirloskar Oil,"5,207.77",684.61,Small Cap,Low Sales,7.61,0.04%
+G S F C,"5,200.13","1,537.45",Small Cap,Medium Sales,3.38,0.04%
+CG Power & Indu.,"5,151.85","1,516.08",Small Cap,Medium Sales,3.40,0.04%
+Westlife Develop,"5,145.88",305.19,Small Cap,Very Low Sales,16.86,0.04%
+K P R Mill Ltd,"5,145.36",714.51,Small Cap,Low Sales,7.20,0.04%
+Tube Investments,"5,139.43","1,274.21",Small Cap,Medium Sales,4.03,0.04%
+Bajaj Electrical,"5,127.38","1,145.13",Small Cap,Medium Sales,4.48,0.04%
+VST Inds.,"5,109.25",238.97,Small Cap,Very Low Sales,21.38,0.04%
+BEML Ltd,"5,089.87",731.51,Small Cap,Low Sales,6.96,0.04%
+FDC,"5,084.19",248.77,Small Cap,Very Low Sales,20.44,0.04%
+DCB Bank,"5,080.50",610.78,Small Cap,Low Sales,8.32,0.04%
+Star Cement,"5,072.67",377.43,Small Cap,Very Low Sales,13.44,0.04%
+Netwrk.18 Media,"5,067.23",366.02,Small Cap,Very Low Sales,13.84,0.04%
+Gulf Oil Lubric.,"5,020.44",355.95,Small Cap,Very Low Sales,14.10,0.04%
+UCO Bank,"5,012.59","3,449.55",Small Cap,High Sales,1.45,0.04%
+Jagran Prakashan,"4,995.05",598.07,Small Cap,Low Sales,8.35,0.04%
+Elgi Equipment,"4,954.08",415.42,Small Cap,Very Low Sales,11.93,0.04%
+JK Lakshmi Cem.,"4,931.55",837.41,Small Cap,Low Sales,5.89,0.04%
+Zydus Wellness,"4,921.45",132.40,Small Cap,Very Low Sales,37.17,0.04%
+Equitas Holdings,"4,886.09",429.86,Small Cap,Very Low Sales,11.37,0.04%
+India Cements,"4,885.75","1,213.08",Small Cap,Medium Sales,4.03,0.04%
+Dishman Pharma.,"4,861.20",534.22,Small Cap,Very Low Sales,9.10,0.04%
+South Ind.Bank,"4,856.71","1,576.96",Small Cap,Medium Sales,3.08,0.04%
+Polaris Consulta,"4,830.44",680.07,Very Small Cap,Low Sales,7.10,0.04%
+V I P Inds.,"4,819.63",337.99,Very Small Cap,Very Low Sales,14.26,0.04%
+APL Apollo,"4,775.03","1,314.38",Very Small Cap,Medium Sales,3.63,0.04%
+Sadbhav Infra.,"4,735.67",624.37,Very Small Cap,Low Sales,7.58,0.04%
+Jindal Stain.,"4,726.91","2,988.86",Very Small Cap,High Sales,1.58,0.04%
+NIIT Tech.,"4,658.20",756.50,Very Small Cap,Low Sales,6.16,0.04%
+Caplin Point Lab,"4,600.73",141.61,Very Small Cap,Very Low Sales,32.49,0.03%
+Indian Energy Ex,"4,595.70",64.75,Very Small Cap,Very Low Sales,70.98,0.03%
+Godfrey Phillips,"4,512.29",581.94,Very Small Cap,Low Sales,7.75,0.03%
+Jindal Stain .Hi,"4,498.09","2,438.58",Very Small Cap,Medium Sales,1.84,0.03%
+R C F,"4,493.52","1,985.06",Very Small Cap,Medium Sales,2.26,0.03%
+Rallis India,"4,493.20",390.16,Very Small Cap,Very Low Sales,11.52,0.03%
+G M D C,"4,456.77",506.06,Very Small Cap,Very Low Sales,8.81,0.03%
+Manpasand Bever.,"4,406.80",143.13,Very Small Cap,Very Low Sales,30.79,0.03%
+Tata Inv.Corpn.,"4,401.66",47.02,Very Small Cap,Very Low Sales,93.61,0.03%
+Essel Propack,"4,371.24",595.05,Very Small Cap,Low Sales,7.35,0.03%
+Allcargo Logist.,"4,369.69","1,479.91",Very Small Cap,Medium Sales,2.95,0.03%
+Radico Khaitan,"4,358.48",482.52,Very Small Cap,Very Low Sales,9.03,0.03%
+Cera Sanitary.,"4,356.90",290.88,Very Small Cap,Very Low Sales,14.98,0.03%
+Forbes & Co,"4,331.82",63.93,Very Small Cap,Very Low Sales,67.76,0.03%
+S B T,"4,328.47","2,365.94",Very Small Cap,Medium Sales,1.83,0.03%
+KNR Construct.,"4,325.39",433.19,Very Small Cap,Very Low Sales,9.98,0.03%
+PNC Infratech,"4,307.29",472.48,Very Small Cap,Very Low Sales,9.12,0.03%
+Greenply Inds.,"4,295.02",399.29,Very Small Cap,Very Low Sales,10.76,0.03%
+Ujjivan Fin.Ser.,"4,293.42",0.00,Very Small Cap,Very Low Sales,#DIV/0!,0.03%
+Monsanto India,"4,291.43",183.74,Very Small Cap,Very Low Sales,23.36,0.03%
+Vinati Organics,"4,279.07",185.65,Very Small Cap,Very Low Sales,23.05,0.03%
+Lux Industries,"4,269.78",297.43,Very Small Cap,Very Low Sales,14.36,0.03%
+Ratnamani Metals,"4,194.31",535.60,Very Small Cap,Low Sales,7.83,0.03%
+Cox & Kings,"4,179.29","1,356.07",Very Small Cap,Medium Sales,3.08,0.03%
+Omaxe,"4,168.29",506.82,Very Small Cap,Very Low Sales,8.22,0.03%
+Ashoka Buildcon,"4,166.87",729.22,Very Small Cap,Low Sales,5.71,0.03%
+Time Technoplast,"4,156.58",754.70,Very Small Cap,Low Sales,5.51,0.03%
+Phillips Carbon,"4,149.67",612.40,Very Small Cap,Low Sales,6.78,0.03%
+Allahabad Bank,"4,137.11","4,243.83",Very Small Cap,High Sales,0.97,0.03%
+Welspun Corp,"4,103.05","2,304.16",Very Small Cap,Medium Sales,1.78,0.03%
+NESCO,"4,093.02",80.62,Very Small Cap,Very Low Sales,50.77,0.03%
+CARE Ratings,"4,090.69",74.82,Very Small Cap,Very Low Sales,54.67,0.03%
+Andhra Bank,"4,067.25","4,549.26",Very Small Cap,High Sales,0.89,0.03%
+Zensar Tech.,"4,066.42",793.76,Very Small Cap,Low Sales,5.12,0.03%
+S H Kelkar & Co.,"4,057.34",283.12,Very Small Cap,Very Low Sales,14.33,0.03%
+Mahindra Holiday,"4,030.35",267.54,Very Small Cap,Very Low Sales,15.06,0.03%
+Sintex Plastics,"4,022.02","1,332.73",Very Small Cap,Medium Sales,3.02,0.03%
+SREI Infra. Fin.,"4,009.63","1,405.19",Very Small Cap,Medium Sales,2.85,0.03%
+Techno Elec.,"3,975.44",275.64,Very Small Cap,Very Low Sales,14.42,0.03%
+Minda Corp,"3,974.83",636.20,Very Small Cap,Low Sales,6.25,0.03%
+KPIT Tech.,"3,927.26",912.77,Very Small Cap,Low Sales,4.30,0.03%
+Triveni Turbine,"3,910.17",165.59,Very Small Cap,Very Low Sales,23.61,0.03%
+Shankara Build.,"3,901.07",624.62,Very Small Cap,Low Sales,6.25,0.03%
+Multi Comm. Exc.,"3,847.19",60.97,Very Small Cap,Very Low Sales,63.10,0.03%
+Brigade Enterpr.,"3,846.15",423.91,Very Small Cap,Very Low Sales,9.07,0.03%
+Magma Fincorp,"3,826.83",580.58,Very Small Cap,Low Sales,6.59,0.03%
+VRL Logistics,"3,824.69",489.34,Very Small Cap,Very Low Sales,7.82,0.03%
+ICRA,"3,809.00",82.87,Very Small Cap,Very Low Sales,45.96,0.03%
+Shriram Pistons,"3,804.58",430.80,Very Small Cap,Very Low Sales,8.83,0.03%
+IFCI,"3,789.45",626.80,Very Small Cap,Low Sales,6.05,0.03%
+Suprajit Engg.,"3,777.26",366.29,Very Small Cap,Very Low Sales,10.31,0.03%
+J & K Bank,"3,775.50","1,682.97",Very Small Cap,Medium Sales,2.24,0.03%
+Navin Fluo.Intl.,"3,769.26",221.45,Very Small Cap,Very Low Sales,17.02,0.03%
+Karnataka Bank,"3,765.74","1,332.24",Very Small Cap,Medium Sales,2.83,0.03%
+Shilpa Medicare,"3,764.10",185.53,Very Small Cap,Very Low Sales,20.29,0.03%
+Kushal,"3,761.86",578.18,Very Small Cap,Low Sales,6.51,0.03%
+Venky's (India),"3,760.61",695.85,Very Small Cap,Low Sales,5.40,0.03%
+CCL Products,"3,748.73",273.99,Very Small Cap,Very Low Sales,13.68,0.03%
+Excel Crop Care,"3,734.06",258.65,Very Small Cap,Very Low Sales,14.44,0.03%
+Trident,"3,722.60","1,137.17",Very Small Cap,Medium Sales,3.27,0.03%
+Corporation Bank,"3,716.46","4,387.85",Very Small Cap,High Sales,0.85,0.03%
+Rane Holdings,"3,711.80",593.74,Very Small Cap,Low Sales,6.25,0.03%
+Team Lease Serv.,"3,677.34",918.06,Very Small Cap,Low Sales,4.01,0.03%
+Oriental Bank,"3,674.60","4,262.08",Very Small Cap,High Sales,0.86,0.03%
+I T D C,"3,619.04",102.14,Very Small Cap,Very Low Sales,35.43,0.03%
+S C I,"3,582.00",879.56,Very Small Cap,Low Sales,4.07,0.03%
+JK Tyre & Indust,"3,577.98","2,123.24",Very Small Cap,Medium Sales,1.69,0.03%
+Deepak Nitrite,"3,531.90",371.14,Very Small Cap,Very Low Sales,9.52,0.03%
+Heidelberg Cem.,"3,531.77",491.23,Very Small Cap,Very Low Sales,7.19,0.03%
+Sharda Cropchem,"3,528.07",325.46,Very Small Cap,Very Low Sales,10.84,0.03%
+Dixon Technolog.,"3,526.80",677.80,Very Small Cap,Low Sales,5.20,0.03%
+Himatsing. Seide,"3,511.08",595.61,Very Small Cap,Low Sales,5.89,0.03%
+La Opala RG,"3,510.93",69.77,Very Small Cap,Very Low Sales,50.32,0.03%
+H F C L,"3,482.71",714.42,Very Small Cap,Low Sales,4.87,0.03%
+Reliance Home,"3,470.60",403.00,Very Small Cap,Very Low Sales,8.61,0.03%
+Rupa & Co,"3,460.91",277.96,Very Small Cap,Very Low Sales,12.45,0.03%
+Ent.Network,"3,380.99",148.42,Very Small Cap,Very Low Sales,22.78,0.03%
+Supreme Petroch.,"3,377.57",725.02,Very Small Cap,Low Sales,4.66,0.03%
+MAS FINANC SER,"3,376.20",112.05,Very Small Cap,Very Low Sales,30.13,0.03%
+Thyrocare Tech.,"3,374.38",77.84,Very Small Cap,Very Low Sales,43.35,0.03%
+Prakash Inds.,"3,336.05",725.97,Very Small Cap,Low Sales,4.60,0.03%
+Repco Home Fin,"3,331.08",277.48,Very Small Cap,Very Low Sales,12.00,0.03%
+Sonata Software,"3,329.58",766.75,Very Small Cap,Low Sales,4.34,0.03%
+Central Dep. Ser,"3,316.31",47.24,Very Small Cap,Very Low Sales,70.20,0.03%
+Puravankara,"3,274.90",440.09,Very Small Cap,Very Low Sales,7.44,0.02%
+Tejas Networks,"3,209.89",229.87,Very Small Cap,Very Low Sales,13.96,0.02%
+ITD Cem,"3,192.67",472.98,Very Small Cap,Very Low Sales,6.75,0.02%
+Hathway Cable,"3,189.10",138.65,Very Small Cap,Very Low Sales,23.00,0.02%
+Dhanuka Agritech,"3,188.62",221.51,Very Small Cap,Very Low Sales,14.39,0.02%
+Mahindra Logis.,"3,187.51",835.06,Very Small Cap,Low Sales,3.82,0.02%
+Heritage Foods,"3,185.45",581.74,Very Small Cap,Low Sales,5.48,0.02%
+Mah. Seamless,"3,164.73",563.66,Very Small Cap,Low Sales,5.61,0.02%
+Navneet Educat.,"3,148.36",174.41,Very Small Cap,Very Low Sales,18.05,0.02%
+Firstsour.Solu.,"3,139.94",887.24,Very Small Cap,Low Sales,3.54,0.02%
+Kaveri Seed Co.,"3,125.83",70.64,Very Small Cap,Very Low Sales,44.25,0.02%
+Star Ferro Cem.,"3,115.98",393.49,Very Small Cap,Very Low Sales,7.92,0.02%
+Deepak Fert.,"3,079.06","1,644.92",Very Small Cap,Medium Sales,1.87,0.02%
+Va Tech Wabag,"3,041.93",460.89,Very Small Cap,Very Low Sales,6.60,0.02%
+Prime Focus,"3,031.50",609.61,Very Small Cap,Low Sales,4.97,0.02%
+Lak. Vilas Bank,"3,029.57",790.17,Very Small Cap,Low Sales,3.83,0.02%
+NOCIL,"3,026.26",249.27,Very Small Cap,Very Low Sales,12.14,0.02%
+Orient Cement,"3,024.32",511.53,Very Small Cap,Very Low Sales,5.91,0.02%
+Natl.Fertilizer,"3,017.07","2,840.75",Very Small Cap,High Sales,1.06,0.02%
